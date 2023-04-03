@@ -1,0 +1,3 @@
+int a,b=0;
+float 9ab enum= 2;
+a=b+2;

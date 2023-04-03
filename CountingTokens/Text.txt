@@ -1,0 +1,5 @@
+int main(){
+  float a = 10 , b ; //Single line Comment 
+  int variable1 = a++ ;
+  printf("Hello world");
+}

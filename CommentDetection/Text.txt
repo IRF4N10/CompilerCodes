@@ -1,0 +1,3 @@
+The string is:
+/*This is a 
+Multi-line comment*/
